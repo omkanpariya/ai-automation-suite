@@ -1,10 +1,10 @@
-# 🚀 AI AUTOMATION SUITE  
+#  AI AUTOMATION SUITE  
 Build enterprise-grade automation projects using Python + AI.
 
-## 📦 Project Structure
+##  Project Structure
 <insert tree here>
 
-## 🧠 Includes Projects:
+##  Includes Projects:
 - Industrial RPA bots
 - Email automation agent
 - Browser automation bot
@@ -14,14 +14,14 @@ Build enterprise-grade automation projects using Python + AI.
 - Custom AI chatbot
 - File organizer bot
 
-## 🔧 Tech Stack  
+##  Tech Stack  
 - Python  
 - FastAPI  
 - Automation (pyautogui, pynput)  
 - CV / OCR (OpenCV)  
 - LLMs (OpenAI)  
 
-## 📅 Timeline  
+##  Timeline  
 This repo is part of a **60-day AI & Automation Engineer plan**.
 
 ## 👨‍💻 Mentor:  
